@@ -8,6 +8,6 @@ sudo chmod 777 ../vendor
 sudo mkdir ../bin
 sudo chmod 777 ../bin
 
-# Get aegir/hostmaster and database images.
-sudo docker pull aegir/hostmaster
+# Get tommycox/hostmaster and database images.
+sudo docker pull tommycox/hostmaster
 sudo docker pull mariadb
